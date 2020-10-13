@@ -1,43 +1,8 @@
-# Account management API - Level 1
-In this interview challenge, the candidate is supposed to build a backend service that implements the Account Management API. 
-The consumers of this API will use it to amend/fetch balances of different accounts.
+# Evaluation Rubric: Account management Backend - Level 1
 
-## Template Repository
-[Account management API - Level 1](https://github.com/DevSkillsHQ/account-management-api-level-1)
-
-## Target Level
-Junior
-
-## Tasks
-### Task 1: Implement update & fetch operations over a REST API.
-This task is about building a service that can handle simple update and read operations over a REST API.
-There are no tricks here and this challenge simply validates one's general coding ability.
-
-#### Automated test scenario
-Update and fetch account balance.
-
-#### Code Review checklist
-| Questions                                                                                                                                      | Assessed Skills                            |
-|:------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|
-| Do all tests from the provided test suite pass?                                                                                                | TDD, Backend, REST API |
-| Has the candidate created any other tests? Do those tests make sense to you? How well did they cover corner cases?                                                              | Code Testing                               |
-| How easy was it to grasp the provided code? How easy can this code be unit tested? Is the code loosely coupled and highly cohesive? | Code Design                                |
-
-### Task 2: Implement handling of invalid HTTP requests.
-This task is about implementing error handling for different types of invalid incoming requests.
-This is a good task for evaluating one's ability to implement practices of defensive programming.
-
-#### Automated test scenario
-Rejecting invalid requests.
-
-#### Code review checklist
-| Questions                                                             | Assessed Skills |
-|:-----------------------------------------------------------------------|:-----------------|
-| Do all tests from the provided test suite pass?                       | Error Handling  |
-| How tightly is the error-handling logic coupled with the business logic? | Code Design     |
-
-## Evaluation Rubric
-| Task                                                  | Evaluated Skills                                                      | Score | Comments                                    |
-|:-----------------------------------------------------------|:----------------------------------------------------------------------|:------|:--------------------------------------------|
-| Implement update & fetch operations over a REST API        | Backend, Test Driven Development, REST API, Code Testing, Code Design | 1-5   | Free text comments explaining the reasoning |
-| Implement handling of invalid HTTP requests.               | Error Handling, Code Design                                           | 1-5   | Free text comments explaining the reasoning |
+| Tech Competence                      | Description                                                                                                                                                                                                                                                                                                                                     | Score, 1-5 | Comments |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|
+| Working with SQL databases           | A SQL database should be the primary data store of the application. As part of this exercise, only keeping a mapping between the `account_id` and the current account balance would be enough.                                                                                                                                                  |            |          |
+| Implement a service API              | This exercise comes with a predefined API spec and an API test suite. The implementation should cover all specified endpoints together with different scenarios outlined in the test suite.                                                                                                                                                     |            |          |
+| Optimize the GET endpoints for speed | In this exercise, the app should only expose a single GET endpoint `/amount`. This requirement then boils down to always storing the up-to-data balance value per `account_id` and returning it on `GET /balance`.                                                                                                                              |            |          |
+| Documenting decisions                | Here the candidate is expected to share any instructions for how to run their app along with any hints that should help you review the submission and better understand the decisions they made. Pay attention to how structured the instructions are. A good rule-of-thumb is to count how many times you had to read it to fully understand.  |            |          |
