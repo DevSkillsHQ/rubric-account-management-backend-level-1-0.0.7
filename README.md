@@ -13,7 +13,7 @@ The hints and the structure below will guide your through the process.
 
 ## Before you start
 
-Please go through the README of the coding challenge that your candidate got to solve.
+Please go through the README of the coding challenge that your candidate got to solve. You can locate the candidate repo at https://app.devskills.co/candidates.
 
 ## How to submit the assessment results
 
