@@ -28,7 +28,7 @@ Use the structure of the [Evaluation Rubric](#evaluation-rubric) section below a
 
 Use the table below to navigate the code and score each of the tech competencies.
 
-If there are any unclarities, ask the candidate to elaborate. You can either ask them a question on the PR or during a follow-up in-person interview.
+If there are any unclarities, ask the candidate to elaborate. You can either ask them a question on the PR or during a follow-up interview.
 
 #### How to score
 | Score | Motivation |
@@ -49,6 +49,8 @@ If there are any unclarities, ask the candidate to elaborate. You can either ask
 | Documenting decisions                | Here the candidate is expected to share any instructions for how to run their app along with any hints that should help you review the submission and better understand the decisions they made. Pay attention to how structured the instructions are. A good rule-of-thumb is to count how many times you had to read it to fully understand.  |            |          |
 
 ### How was their communication?
+
+Fill in this section after you have talked with the candidate either via PR comments or a follow-up interview.
 
 #### How to score
 | Score | Motivation |
