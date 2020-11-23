@@ -13,7 +13,9 @@ The hints and the structure below will guide your through the process.
 
 ## Before you start
 
-Please go through the README of the coding challenge that your candidate got to solve. You can locate the candidate repo at https://app.devskills.co/candidates.
+Please go through the README of the coding challenge that your candidate got to solve. 
+
+You can locate the candidate repo at https://app.devskills.co/candidates.
 
 ## How to submit the assessment results
 
@@ -42,11 +44,9 @@ There will likely be parts where you'll need an explanation from the candidate b
 
 ### How was their communication?
 
-Apart from the score, feel free to add a short description of how well the candidate could express their point of view.
-
-| Score, 1-5 | Comments |
-|------------|----------|
-|            |          |
+| Score, 1-5 | Comments                                                                                          |
+|------------|---------------------------------------------------------------------------------------------------|
+|    1-5     | Feel free to add a short description of how well the candidate could express their point of view. |
 
 ### Final comments
 
