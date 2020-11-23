@@ -1,4 +1,4 @@
-# Rubric - Account Management Backend - Level 1
+# Rubric: Account Management Backend - Level 1
 
 Hi interviewer! 👋
 
