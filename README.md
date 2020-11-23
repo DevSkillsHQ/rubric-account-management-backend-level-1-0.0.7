@@ -18,9 +18,9 @@ The hints and the structure below will guide you through the process.
 
 ## How to submit the assessment results
 
-Use the structure of the "Evaluation Rubric" section and save a filled-in copy under the candidate's scorecard. Locate it at https://app.devskills.co/candidates. 
+Use the structure of the [Evaluation Rubric](#evaluation-rubric) section below and save a filled-in copy under the candidate's scorecard. Locate it at https://app.devskills.co/candidates. 
 
-**Don't save them on the PR itself, as the candidate will see them!**
+**⚠️ Don't save the filled in results on the PR itself, as the candidate will see them!**
 
 ## Evaluation Rubric
 
