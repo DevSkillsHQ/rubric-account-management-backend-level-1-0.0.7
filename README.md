@@ -4,7 +4,7 @@ Hi interviewer! 👋
 
 Here is the evaluation rubric for the "Account Management Backend - Level 1" coding challenge.
 
-**📖 Before you start, please read through [this code review guide](https://www.notion.so/How-to-code-review-3d705ea7262f4d1c80fc24a1eb759614).**
+### 📖 Before you start, please read through [this code review guide](https://www.notion.so/How-to-code-review-3d705ea7262f4d1c80fc24a1eb759614).
 
 ## How to submit the assessment results
 
