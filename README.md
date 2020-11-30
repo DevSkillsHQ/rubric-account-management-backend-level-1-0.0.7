@@ -4,17 +4,7 @@ Hi interviewer! 👋
 
 Here is the evaluation rubric for the "Account Management Backend - Level 1" coding challenge.
 
-This rubric has two goals:
-
-1. Save your time doing a code review.
-2. Implement a standardized evaluation of your candidates.
-
-The hints and the structure below will guide you through the process.
-
-## Before you start
-
-1. Make sure the candidate has created a Pull Request with their implementation.
-2. Go through the README of the coding challenge that your candidate got to solve. You can locate the candidate repo at https://app.devskills.co/candidates.
+**📖 Before you start, please read through [this code review guide](https://www.notion.so/How-to-code-review-3d705ea7262f4d1c80fc24a1eb759614).**
 
 ## How to submit the assessment results
 
