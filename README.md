@@ -9,7 +9,7 @@ Here is the evaluation rubric for the "Account Management Backend - Level 1" cod
 ## How to submit the assessment results
 
 1. Use the structure of the [Evaluation Rubric](#evaluation-rubric) section below and save a filled-in copy under the candidate's scorecard. Locate it at https://app.devskills.co/candidates. **Don't save the filled in results on the PR itself, as the candidate will see them!**
-2. Add an `approved`/`rejected` label to the candidate ([see how](https://www.notion.so/How-to-add-labels-to-the-candidate-bd0ca1a477584a18a885ea0ce07f4c5c)) at https://app.devskills.co/candidates to mark whether the code review has been successful for them or not.
+2. Add an `approved`/`rejected` label to the candidate ([see how](https://www.notion.so/How-to-add-labels-to-the-candidate-bd0ca1a477584a18a885ea0ce07f4c5c)) at https://app.devskills.co/candidates to mark whether they passed the code review or not.
 
 ## Evaluation Rubric
 
